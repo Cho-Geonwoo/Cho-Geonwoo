@@ -21,7 +21,6 @@ Hi, I'm GeonwooCho (he/him)—a junior machine learning enginner interested in A
 
 ## Get in touch
 - Email: joungju257@gmail.com
-- instagram: https://www.instagram.com/sky_help.jo/
 - Blog: https://cho-geonwoo.github.io/
 
 
