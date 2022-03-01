@@ -21,7 +21,7 @@ Hi, I'm GeonwooCho (he/him)—a junior machine learning enginner interested in A
 
 ## Get in touch
 - Email: joungju257@gmail.com
-- Blog: https://cho-geonwoo.github.io/
+- Blog: https://cho-geonwoo.tistory.com/
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cho-Geonwoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
