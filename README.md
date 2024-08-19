@@ -1,5 +1,5 @@
 
-Hi, I'm GeonwooCho (he/him)—a junior machine learning enginner interested in AI/Quantum Computing. 💕 I care about redistributing power, digital communities, and mindfulness. 
+Hi, I'm GeonwooCho (he/him)—a junior machine learning enginner interested in AI/Quantum Computing. I care about redistributing power, digital communities, and mindfulness. 
 
 
 **Languages and Tools:**  
